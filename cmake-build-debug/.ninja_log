@@ -1,0 +1,12 @@
+# ninja log v5
+3	335	1717063228251461669	CMakeFiles/functions.dir/main.cpp.o	e6d867d0abf9bd1f
+3	355	1717065199969147542	CMakeFiles/functions.dir/sumFunction.cpp.o	f684dd84d05a0662
+385	504	1717068433786039978	functions	a567166d86157149
+4	593	1717064114868804080	CMakeFiles/functions.dir/funcPrototype.cpp.o	9fd055f29153dca7
+1	384	1717068433664997891	CMakeFiles/functions.dir/paramsFunc.cpp.o	e82493d59eda3a58
+5	293	1717067056483996260	CMakeFiles/functions.dir/comparisonFunc.cpp.o	bf55c2d37f0385a4
+4	559	1717064792147294571	CMakeFiles/functions.dir/stringFunc.cpp.o	8571eaca42038a2f
+1	387	1717066147522529668	CMakeFiles/functions.dir/boolFunction.cpp.o	a8c23aac3b35df5a
+1	388	1717067451586827965	CMakeFiles/functions.dir/multFunction.cpp.o	e220015b0cf252ee
+1	411	1717073491654419518	CMakeFiles/fucntions.dir/global_localVariables.cpp.o	d1981a8397938630
+413	543	1717073491784373069	fucntions	e58ed6317b920b03
